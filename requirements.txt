@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+rembg==2.0.69
+Pillow
+onnxruntime
+numpy
